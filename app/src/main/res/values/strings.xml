@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertanian</string>
+    <string name="action_settings">Settings</string>
+    <string name="omset">Omzet rata-rata :</string>
+    <string name="luas">Luas total</string>
+    <string name="Llahan">Luas Lahan</string>
+    <string name="pemilik">Pemilik</string>
+</resources>
